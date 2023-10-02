@@ -111,7 +111,7 @@ while space_exist():
         continue
     #
     if won:
-        result = "* c bon ta gg ez *"
+        result = "* c bon ta gg ez 2 *"
 
         break
     elif computer_move()[1]:
